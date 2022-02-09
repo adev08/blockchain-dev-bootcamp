@@ -2,7 +2,7 @@
   "name": "bootcamp",
   "version": "0.2.0",
   "description": "Decentralized Ethereum Token Exchange",
-  "author": "Alex Mateo",
+  "author": "dev@dappuniversity.com",
   "private": true,
   "homepage": ".",
   "engines": {
